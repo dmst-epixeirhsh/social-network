@@ -6,7 +6,7 @@ import java.util.*;
 public class Ergasia {
 
   public static String logged;
-  //λογκντ ειναι η κατασταση 
+  //λογκντ ειναι η κατασταση του χρήστη, είτε είναι συνδεδεμένος είτε όχι, αν γινόταν boolean θα κράσαρε το πρόγραμμα
   public static Scanner in = new Scanner(System.in);
   public static Map<String,String> users = new HashMap<>(), posts = new HashMap<>(), postMetadata = new HashMap<>();
   //μαπ ειναι δομη δεδομενων, και το χασμαπ ειναι ενα ειδος δομης
