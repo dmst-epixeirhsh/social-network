@@ -18,7 +18,7 @@
 
 * Το αρχείο pom.xml βρίσκεται στο "/" και δημιουργήθηκε αυτόματα απο το NetBeans. Εμείς προσθέσαμε κατάλληλο κώδικα XML για να προσδιορίσουμε ποια κλάση το πρόγραμμα αντιμετωπίζει ως "main"
 
-* Το αρχείο mavenApp-1.0-SNAPSHOT.jar το οποίο είναι το αρχείο jar του project μας.
+* Το αρχείο mavenApp-1.0-SNAPSHOT.jar το οποίο είναι το αρχείο jar του project μας. (java -jar mavenApp-1.0-SNAPSHOT.jar)
 ## UML
 
 ![UMLofErgasia](https://user-images.githubusercontent.com/115426925/212979759-30371b3a-1129-40d7-b213-8db449d12901.jpg)
