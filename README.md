@@ -21,7 +21,9 @@
 * Το αρχείο mavenApp-1.0-SNAPSHOT.jar το οποίο είναι το αρχείο jar του project μας.
 ## UML
 
-...
+![UMLofErgasia](https://user-images.githubusercontent.com/115426925/212979759-30371b3a-1129-40d7-b213-8db449d12901.jpg)
+
+
 
 ## Λειτουργία/Αλγόριθμοι
 
